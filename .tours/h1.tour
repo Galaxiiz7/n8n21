@@ -1,0 +1,11 @@
+{
+  "$schema": "https://aka.ms/codetour-schema",
+  "title": "h1",
+  "steps": [
+    {
+      "file": "h.js",
+      "description": "log hello",
+      "line": 1
+    }
+  ]
+}
